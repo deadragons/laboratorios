@@ -1,0 +1,5 @@
+C:\Users\bbg_a\Desktop\gestion\integracion\Function.Integrations\Functions.IntegrationsTest\obj\Debug\netcoreapp2.1\Functions.IntegrationsTest.csproj.AssemblyReference.cache
+C:\Users\bbg_a\Desktop\gestion\integracion\Function.Integrations\Functions.IntegrationsTest\obj\Debug\netcoreapp2.1\Functions.IntegrationsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbg_a\Desktop\gestion\integracion\Function.Integrations\Functions.IntegrationsTest\obj\Debug\netcoreapp2.1\Functions.IntegrationsTest.AssemblyInfoInputs.cache
+C:\Users\bbg_a\Desktop\gestion\integracion\Function.Integrations\Functions.IntegrationsTest\obj\Debug\netcoreapp2.1\Functions.IntegrationsTest.AssemblyInfo.cs
+C:\Users\bbg_a\Desktop\gestion\integracion\Function.Integrations\Functions.IntegrationsTest\obj\Debug\netcoreapp2.1\Functions.IntegrationsTest.csproj.CoreCompileInputs.cache
